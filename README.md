@@ -1,5 +1,5 @@
 # cdi-04
-* Alumno: Santiago Zacarias
+* Alumno: Selene Ramirez
 * Materia: control de interfaces 
 * Curso: 4º2º
-* colaboradores: Selene Ramirez, Rodríguez Domoni
+* colaboradores: Santiago Zacarias, Rodríguez Domoni
